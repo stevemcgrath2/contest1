@@ -19,6 +19,9 @@ from qualys.transform import Transformer
 app = Typer()
 
 
+
+
+
 class LogLevels(str, Enum):
     debug = 'DEBUG'
     info = 'INFO'
