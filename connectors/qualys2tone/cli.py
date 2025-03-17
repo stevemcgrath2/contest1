@@ -12,6 +12,10 @@ from qualys import __version__ as version
 from qualys.api import QualysAPI
 from qualys.transform import Transformer
 
+
+
+
+
 app = Typer()
 
 
